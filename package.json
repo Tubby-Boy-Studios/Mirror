@@ -2,6 +2,7 @@
   "name": "com.mirror.package",
   "displayName": "Mirror",
   "version": "1.0.6",
+  "plugin-version": "96.11.5",
   "unity": "2021.3",
   "keywords": [
     "networking"

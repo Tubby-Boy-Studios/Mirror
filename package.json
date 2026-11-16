@@ -1,13 +1,13 @@
 {
   "name": "com.mirror.package",
   "displayName": "Mirror",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "unity": "2021.3",
   "keywords": [
     "networking"
   ],
   "category": "Tools",
-  "description": "This package is a fork of the original Mirror package, but it is setup as an actual unity packge rather than a plugin.",
+  "description": "This package is a fork of the original Mirror package, but it is setup as an actual unity packge rather than a plugin. Compliant with v96.11.5",
   "type": "tool",
   "author": "ItsTheConnection, Mischa, Paul, Chris, Robin, Stephen and Contributors",
   "unityRelease": "35"
